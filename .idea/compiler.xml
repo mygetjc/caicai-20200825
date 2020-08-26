@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cc-fund" />
-        <module name="cc-user" />
         <module name="model" />
+        <module name="core" />
+        <module name="common" />
+        <module name="cc-user" />
       </profile>
     </annotationProcessing>
   </component>

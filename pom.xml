@@ -11,6 +11,8 @@
     <modules>
         <module>model</module>
         <module>sysadmin</module>
+        <module>common</module>
+        <module>common/core</module>
     </modules>
 
     <dependencyManagement>
